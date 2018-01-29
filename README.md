@@ -1,7 +1,9 @@
 ###########################################################
 
 Developed By: Chris Clifton
+
 Date: 01/28/18
+
 Description: 
 
     - CoinDeskHistorical: uses the API from coindesk.com to
