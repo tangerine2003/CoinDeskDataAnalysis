@@ -20,7 +20,6 @@ def api_connect(url):
 
 def create_file(date):
     e_file = open(date + ".txt", "w+")
-    e_file.write(date + "," + message + "," + description)
     e_file.close()
 
 
